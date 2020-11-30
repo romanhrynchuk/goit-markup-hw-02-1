@@ -101,6 +101,7 @@ ul {
 }
 
 .hero-button {
+  outline: 2px tomato;
   font-weight: 700;
   font-size: 16px;
   line-height: 1.875;
@@ -220,3 +221,5 @@ ul {
 }
 
 /* ==========End Portfolio========== */
+
+background-color: #ffeb3b;
